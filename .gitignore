@@ -1,0 +1,5 @@
+.idea
+MyReact.iml
+
+dist
+node_modules
